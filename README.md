@@ -1,6 +1,7 @@
 # scripts
 public scripts for install my repos if is auth
 
+rm -r scripts
 
 git clone -b main https://github.com/david127cu/scripts
 
